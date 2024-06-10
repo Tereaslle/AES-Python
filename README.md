@@ -2,8 +2,6 @@
 
 # Python实现AES加密（无第三方库）
 
-附上Github仓库链接
-
 ## 概述
 
 > AES加密算法，即**Rijndael**算法，是一种对称分组密码，它可以使用长度为128、192和256位的密钥处理128位的数据块。本文将用Python实现密钥长度为**128**位的AES算法，若想要详细了解完整的AES算法，请移步[官方文档](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf)。
